@@ -4,7 +4,7 @@ export default class Airport {
     this._code = code;
   }
 
-  //Getter and setter values
+  // Getters and setters
   get name() {
     return this._name;
   }
